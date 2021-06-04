@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="test">
+        <div class="red">child1</div>
+        <div class="red">child2</div>
+        <div class="red">child3</div>
+    </div>
+    <div id="test">
+        <div class="child">child1</div>
+        <div class="child">child2</div>
+    </div>
+    <div id="test">
+        <div class="child">child1</div>
+        <div class="child">child2</div>
+    </div>
+
+    <script src="95813b207155e68b7a9a547edc486220"></script>
+    <script src="050f667e079614d598ce9c8deb1fba5f"></script>
+</body>
+
+</html>
